@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Bury",
+  "base_artist": "Pay money To my Pain",
+  "createdAt": "2026-02-14T04:49:36.644944Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bury Me with My Boots On",
+      "artist": "Joshua Hedley",
+      "has_synced": false,
+      "path": "select/01_Bury_Me_with_My_Boots_On_Joshua_Hedley.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Please Don't Bury Me",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/02_Please_Don't_Bury_Me_John_Prine.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Please Don't Bury Me (LP Version)",
+      "artist": "John Prine",
+      "has_synced": true,
+      "path": "select/03_Please_Don't_Bury_Me_(LP_Version)_John_Prine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bury Me With It",
+      "artist": "Modest Mouse",
+      "has_synced": false,
+      "path": "select/04_Bury_Me_With_It_Modest_Mouse.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ode We Will Bury Ourselves",
+      "artist": "Moving Mountains",
+      "has_synced": true,
+      "path": "select/05_Ode_We_Will_Bury_Ourselves_Moving_Mountains.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bury Me My Love",
+      "artist": "Metro Station",
+      "has_synced": false,
+      "path": "select/06_Bury_Me_My_Love_Metro_Station.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kollaps Tradicional (Bury 3 Dynamos)",
+      "artist": "A Silver Mt. Zion",
+      "has_synced": false,
+      "path": "select/07_Kollaps_Tradicional_(Bury_3_Dynamos)_A_Silver_Mt._Zion.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bury Me Deep",
+      "artist": "The Sisters of Mercy",
+      "has_synced": true,
+      "path": "select/08_Bury_Me_Deep_The_Sisters_of_Mercy.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bury the Evidence",
+      "artist": "Tricky",
+      "has_synced": true,
+      "path": "select/09_Bury_the_Evidence_Tricky.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bury Me",
+      "artist": "Brodinski feat. Maluca & Bricc Baby Shitro",
+      "has_synced": true,
+      "path": "select/10_Bury_Me_Brodinski_feat._Maluca_&_Bricc_Baby_Shitro.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bury the Hammer",
+      "artist": "Beat Happening",
+      "has_synced": true,
+      "path": "select/11_Bury_the_Hammer_Beat_Happening.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bury You With Satan",
+      "artist": "Necro",
+      "has_synced": true,
+      "path": "select/12_Bury_You_With_Satan_Necro.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "bury a friend",
+      "artist": "Billie Eilish",
+      "has_synced": true,
+      "path": "select/13_bury_a_friend_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bury Me (Reel Time Demos) [2011 Mix]",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/14_Bury_Me_(Reel_Time_Demos)_[2011_Mix]_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bury Me - 2011 - Remaster",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/15_Bury_Me_-_2011_-_Remaster_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bury Me Deep",
+      "artist": "Chumbawamba",
+      "has_synced": true,
+      "path": "select/16_Bury_Me_Deep_Chumbawamba.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bury",
+      "artist": "Pay money To my Pain",
+      "has_synced": false,
+      "path": "select/pl_01_Bury_Pay_money_To_my_Pain.txt"
+    }
+  ]
+}
